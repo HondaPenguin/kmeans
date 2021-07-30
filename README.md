@@ -1,2 +1,2 @@
-# kmeans
-YSP final project
+# kcluster
+A simple C implementation of K means Clustering
